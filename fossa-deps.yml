@@ -1,0 +1,3 @@
+vendored-dependencies:
+  - name: dual-licenses-cli-side
+    path: .
