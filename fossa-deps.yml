@@ -1,3 +1,6 @@
 vendored-dependencies:
   - name: dual-licenses-cli-side
     path: .
+referenced-dependencies:
+- type: git
+  name: https://github.com/spatten/dual-license
